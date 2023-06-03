@@ -1,6 +1,0 @@
-git pull origin master ：リモートリポジトリの内容をローカルリポジトリにコピー（作業始める前にやっておいたほうがいいかも）
-git add <filename>     ：ローカルリポジトリにfilenameを追加
-git commit -m "message"：変更内容についての簡単な説明（必須）
-git push origin master ：リモートリポジトリのmasterブランチにローカルリポジトリの内容を入れる
-
-git merge, git fetch は分からん
