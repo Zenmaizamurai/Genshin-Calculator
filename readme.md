@@ -5,3 +5,6 @@ Genshin_Calculator_*.*.*.*フォルダ内のInstall.batをクリックしてイ�
 
 # 起動
 windowsのアプリケーション一覧からGenshin_Calculatorを探して起動
+
+# 動作環境
+windows10以降
